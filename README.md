@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF00FF&height=180&section=header&text=Junio%20de%20Matos%20Oliveira&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+
 # 👋 Olá! Eu sou o Junio!
 
 Bem-vindo ao meu cantinho no GitHub!  
@@ -30,3 +32,5 @@ Sou apaixonado por desenvolvimento web, APIs, arquitetura limpa e tudo que envol
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge)](https://wa.me/qr/3WFI5STQYHHEL1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](www.linkedin.com/in/juniom237)
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?logo=microsoftoutlook&logoColor=white&style=for-the-badge)](mailto:junio237@hotmail.com)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF00FF&height=120&section=footer"/>
