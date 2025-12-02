@@ -1,53 +1,32 @@
-<h2 align="left">Ola! Meu nome 👉 <h1>Junio de Matos Oliveira</h1>👈</h2>
+# 👋 Olá! Eu sou o Junio!
 
-###
+Bem-vindo ao meu cantinho no GitHub!  
+Aqui você vai encontrar projetos, experimentos, ideias malucas e aquele código que escrevi às 3 da manhã achando que estava genial 😄  
 
-Front-end | Back-end | Framework
-:--------- | :------: | -------:
-Exemplo | Exemplo | Exemplo
-:--------- | :------: | -------:
-Exemplo | Exemplo | Exemplo
-:--------- | :------: | -------:
-Exemplo | Exemplo | Exemplo
-:--------- | :------: | -------:
+Sou apaixonado por desenvolvimento web, APIs, arquitetura limpa e tudo que envolve criar soluções que realmente ajudam pessoas.
 
-###
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Juniom237&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Juniom237&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+## 🚀 Tech Stack
 
-###
+### **Principais Tecnologias**
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white&style=for-the-badge)
 
-<img align="right" height="200" src="https://static.vecteezy.com/system/resources/previews/005/283/061/original/web-development-concept-in-3d-isometric-design-designer-works-with-code-interface-engineering-programming-settings-and-optimizes-pages-template-with-people-scene-illustration-for-webpage-vector.jpg"  />
+---
 
-###
+## 📚 Estudando
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge)
 
-<div align="left">
-  <a href="www.linkedin.com/in/juniom237" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://wa.me/qr/3WFI5STQYHHEL1" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  </a>
-  <a href="junio237@hotmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
-  </a>
-</div>
+---
 
-###
+## 🌎 Onde me encontrar
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Juniom237/Juniom237/output/snake.svg" alt="Snake animation" />
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Juniom237/Juniom237/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Juniom237/Juniom237/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Juniom237/Juniom237/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge)](https://wa.me/qr/3WFI5STQYHHEL1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](www.linkedin.com/in/juniom237)
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?logo=microsoftoutlook&logoColor=white&style=for-the-badge)](mailto:junio237@hotmail.com)
